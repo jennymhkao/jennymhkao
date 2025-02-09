@@ -13,13 +13,13 @@ I'm a systems thinker with a keen interest in understanding how various componen
 ## 🌱 Currently Learning
 
 - Advanced Kubernetes
-- AWS, Azure
-- Machine Learning with TensorFlow and PyTorch
+- AWS, Azure, GCP
+- Linux administration
 
 ## 💬 Let's Connect!
 
 - **GitHub:** [jennymhkao](https://github.com/jennymhkao)
-- **LinkedIn:** [Jenny Kao](https://www.linkedin.com/in/jenny-kao/)
+- **LinkedIn:** [Jenny Kao](https://www.linkedin.com/in/jennymhkao/)
 
 ## 📈 GitHub Stats
 
