@@ -16,11 +16,6 @@ I'm a systems thinker with a keen interest in understanding how various componen
 - AWS, Azure, GCP
 - Linux administration
 
-## 💬 Let's Connect!
-
-- **GitHub:** [jennymhkao](https://github.com/jennymhkao)
-- **LinkedIn:** [Jenny Kao](https://www.linkedin.com/in/jennymhkao/)
-
 ## 📈 GitHub Stats
 
 ![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennymhkao&show_icons=true&theme=radical)
@@ -40,9 +35,10 @@ I'm a systems thinker with a keen interest in understanding how various componen
 - [**Post Title 2**](https://jennymhkao.medium.com/post-title-2) - A brief description of the post.
 - [**Post Title 3**](https://jennymhkao.medium.com/post-title-3) - A brief description of the post.
 
-## 📫 How to Reach Me
+## 💬 Let's Connect!
 
-Feel free to reach out to me via [email](mailto:jennymhkao@gmail.com) for any collaboration or just to say hi!
+- **LinkedIn:** [Jenny Kao](https://www.linkedin.com/in/jennymhkao/)
+- Feel free to reach out to me via [email](mailto:jennymhkao@gmail.com) 
 
 ---
 
