@@ -1,4 +1,4 @@
-## Hi there, I'm Jenny 👋
+## Hi there, I'm jenny 👋
 
 I'm a systems thinker with a keen interest in understanding how various components work together and identifying ways to improve and optimize them. I love exploring new technologies, solving problems, and continuously improving my skills.
 
