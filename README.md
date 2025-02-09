@@ -31,7 +31,7 @@ I'm a systems thinker with a keen interest in understanding how various componen
 
 ## 📝 Blog Posts
 
-- [**Post Title 1**](https://jennymhkao.medium.com/post-title-1) - A brief description of the post.
+- [**LED earrings**](https://jennymhkao.github.io/learning/2022/02/03/LED-earrings.html) - Cool LED earrings
 - [**Post Title 2**](https://jennymhkao.medium.com/post-title-2) - A brief description of the post.
 - [**Post Title 3**](https://jennymhkao.medium.com/post-title-3) - A brief description of the post.
 
