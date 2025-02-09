@@ -1,6 +1,6 @@
 ## hi there, I'm jenny 👋
 
-I'm a systems thinker with a keen interest in understanding how various components work together and identifying ways to improve and optimize them. I love exploring new technologies, solving problems, and continuously improving my skills.
+I'm a systems thinker passionate about understanding how various components interact and optimizing them for efficiency and scalability. I thrive on solving complex problems, exploring new technologies, and continuously refining my skills to drive impactful solutions.
 
 ## 🔧 technologies & tools
 
