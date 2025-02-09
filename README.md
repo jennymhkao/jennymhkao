@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Jenny Kao 👋
 
-<!--
-**jennymhkao/jennymhkao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems thinker with a keen interest in understanding how various components work together and identifying ways to improve and optimize them. I love exploring new technologies, solving problems, and continuously improving my skills.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python 
+- **Frameworks & Libraries:** React, Node.js, Django, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure 
+- **Tools:** Git, VS Code, JIRA, Postman
+
+## 🌱 Currently Learning
+
+- Advanced Kubernetes
+- AWS, Azure
+- Machine Learning with TensorFlow and PyTorch
+
+## 💬 Let's Connect!
+
+- **GitHub:** [jennymhkao](https://github.com/jennymhkao)
+- **LinkedIn:** [Jenny Kao](https://www.linkedin.com/in/jenny-kao/)
+
+## 📈 GitHub Stats
+
+![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennymhkao&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jennymhkao&layout=compact&theme=radical)
+
+## 🌟 Projects
+
+- [**Awesome Project 1**](https://github.com/jennymhkao/awesome-project-1) - Description of the awesome project 1.
+- [**Awesome Project 2**](https://github.com/jennymhkao/awesome-project-2) - Description of the awesome project 2. 
+
+## 📝 Blog Posts
+
+- [**Post Title 1**](https://jennymhkao.medium.com/post-title-1) - A brief description of the post.
+- [**Post Title 2**](https://jennymhkao.medium.com/post-title-2) - A brief description of the post.
+- [**Post Title 3**](https://jennymhkao.medium.com/post-title-3) - A brief description of the post.
+
+## 📫 How to Reach Me
+
+Feel free to reach out to me via [email](mailto:jennymhkao@gmail.com) for any collaboration or just to say hi!
+
+---
+
+⭐️ From [jennymhkao](https://github.com/jennymhkao)
